@@ -148,12 +148,16 @@ where $\mathbf{W}_f$ and $\mathbf{B}_f$ denote the weight and bias of the preced
 If you use this code in your research, please cite:
 
 ```bibtex
-@inproceedings{li2021quantized,
-  title={Quantized Self-supervised Local Feature for Real-time Robot Indirect VSLAM},
-  author={Li, Chenghao and others},
-  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-  year={2021}
-}
+@ARTICLE{quantized2022sheli,
+  author={Li, Shenghao and Liu, Shuang and Zhao, Qunfei and Xia, Qiaoyang},
+  journal={IEEE/ASME Transactions on Mechatronics}, 
+  title={Quantized Self-Supervised Local Feature for Real-Time Robot Indirect VSLAM}, 
+  year={2022},
+  volume={27},
+  number={3},
+  pages={1414-1424},
+  keywords={Feature extraction;Feature detection;Robustness;Visualization;Real-time systems;Tensors;Task analysis;Descriptor quantization;indirect VSLAM;local feature;robustness;self-supervised learning},
+  doi={10.1109/TMECH.2021.3085326}}
 ```
 
 ## License
