@@ -148,7 +148,7 @@ where $\mathbf{W}_f$ and $\mathbf{B}_f$ denote the weight and bias of the preced
 If you use this code in your research, please cite:
 
 ```bibtex
-@ARTICLE{quantized2022sheli,
+@ARTICLE{li2022quantized,
   author={Li, Shenghao and Liu, Shuang and Zhao, Qunfei and Xia, Qiaoyang},
   journal={IEEE/ASME Transactions on Mechatronics}, 
   title={Quantized Self-Supervised Local Feature for Real-Time Robot Indirect VSLAM}, 
